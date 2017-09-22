@@ -1,0 +1,36 @@
+While driving passenger cars, we collected data 
+considering various driving conditions or patterns 
+as shown below files.
+Note that these are just examples in this study
+
+<Aggressive  StyleDriving>
+2017_1_31_Videotake_1485879495810.json
+2017_2_17_Videotake_1487348095704.json
+2017_2_18_Videotake_1487449405992.json
+
+<Zigzag Style Driving >
+2017_1_31_Videotake_1485879719860.json
+CBF3052ACA_2017_2_13_Videotake_1487017270479.json
+
+<Speed Bump Passing>
+2017_2_10_Videotake_1486741117097.json
+2017_2_4_Videotake_1486251428061.json
+2017_2_10_Videotake_1486741045566.json
+2017_2_4_Videotake_1486251570908.json
+2DE7861CCA_2017_2_09_Videotake_1486685972252.json
+2DE7861CCA_2017_2_09_Videotake_1486686165979.json
+CBF3052ACA_2017_2_13_Videotake_1487017975554.json
+CBF3052ACA_2017_2_13_Videotake_1487018144665.json
+2DE7861CCA_2017_2_10_Videotake_1486749168052.json
+
+<Uneven Road Passing>
+2017_2_11_Videotake_1486842513607.json
+2017_2_12_Videotake_1486939628256.json
+2017_2_13_Videotake_1487004736627.json
+2017_2_9_Videotake_1486662406177.json
+2017_2_9_Videotake_1486662448691.json
+
+<Pothole Passing>
+2017_2_18_Videotake_1487449645892.json
+2017_2_18_Videotake_1487449769760.json
+2017_2_18_Videotake_1487449871306.json
